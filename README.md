@@ -5,17 +5,22 @@
 ### 问题描述：
 在一个 2^k×2^k 个方格组成的棋盘中, 若有一个方格与其他方格不同, 则称该方格为一特殊方格, 且称该棋盘为一个特殊棋盘. 显然特殊方格在棋盘上出现的位置有 4^k 种情形. 因而对任何 k≥0, 有 4^k 种不同的特殊棋盘.
      下图–图 (1) 中的特殊棋盘是当 k=3 时 16 个特殊棋盘中的一个：
-     <img src="http://pic002.cnblogs.com/images/2011/320662/2011080809544435.png" />
-     图一
-     题目要求在棋盘覆盖问题中, 要用下图 - 图 (2) 所示的 4 种不同形态的 L 型骨牌覆盖一个给定的特殊棋盘上除特殊方格以外的所有方格, 且任何 2 个 L 型骨牌不得重叠覆盖.
-     <img src="http://pic002.cnblogs.com/images/2011/320662/2011080809550625.png"/>
-     图二
-     
+       
+       
+<img src="http://pic002.cnblogs.com/images/2011/320662/2011080809544435.png" />
+
+图一
+题目要求在棋盘覆盖问题中, 要用下图 - 图 (2) 所示的 4 种不同形态的 L 型骨牌覆盖一个给定的特殊棋盘上除特殊方格以外的所有方格, 且任何 2 个 L 型骨牌不得重叠覆盖.
+
+ <img src="http://pic002.cnblogs.com/images/2011/320662/2011080809550625.png" />
+
+图二
+
 ---
 ### 先看效果图
 <img src="https://github.com/weimin96/ChessBoard/blob/master/ScreenShots/screenshot1.jpg" width="220"/>
-<img src="https://github.com/weimin96/ChessBoard/blob/master/ScreenShots/screenshot1.jpg" width="220"/>
-<img src="https://github.com/weimin96/ChessBoard/blob/master/ScreenShots/screenshot1.jpg" width="220"/>
+<img src="https://github.com/weimin96/ChessBoard/blob/master/ScreenShots/screenshot2.jpg" width="220"/>
+<img src="https://github.com/weimin96/ChessBoard/blob/master/ScreenShots/screenshot3.jpg" width="220"/>
 
 ---
 ### 算法（分治思想）
