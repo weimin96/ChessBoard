@@ -9,14 +9,13 @@
        
 <img src="http://pic002.cnblogs.com/images/2011/320662/2011080809544435.png" />
   
-  
-          图（1）
+   图（1）
   
 题目要求在棋盘覆盖问题中, 要用下图 - 图 (2) 所示的 4 种不同形态的 L 型骨牌覆盖一个给定的特殊棋盘上除特殊方格以外的所有方格, 且任何 2 个 L 型骨牌不得重叠覆盖。  
   
 <img src="http://pic002.cnblogs.com/images/2011/320662/2011080809550625.png" />
 
-          图（2）
+   图（2）
 ---
 ### 先看效果图
 <img src="https://github.com/weimin96/ChessBoard/blob/master/ScreenShots/screenshot1.jpg" width="220"/>
