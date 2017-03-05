@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChessBoard</string>
+    <string name="size">棋盘规格</string>
+    <string name="run">执行</string>
+</resources>
